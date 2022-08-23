@@ -1,0 +1,15 @@
+{
+  "name": "cheapoto",
+  "version": "1.0.0",
+  "description": "food delievery ui",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel index.html"
+  },
+  "author": "diwyanshu",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.1.1"
+  }
+}
